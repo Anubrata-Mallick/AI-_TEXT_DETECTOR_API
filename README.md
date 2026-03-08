@@ -6,10 +6,10 @@ FLASK API FOR FINAL YEAR PROJECT OF MCA
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-text-detector.git
+git clone https://github.com/YOUR_USERNAME/AI-_TEXT_DETECTOR_API.git
 ```
 ```bash
-cd ai-text-detector
+cd AI-_TEXT_DETECTOR_API
 ```
 
 ### 2. Create a virtual environment
