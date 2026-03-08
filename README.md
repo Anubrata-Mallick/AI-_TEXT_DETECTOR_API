@@ -7,6 +7,8 @@ FLASK API FOR FINAL YEAR PROJECT OF MCA
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/ai-text-detector.git
+```
+```bash
 cd ai-text-detector
 ```
 
@@ -14,6 +16,8 @@ cd ai-text-detector
 
 ```bash
 python3 -m venv venv
+```
+```bash
 source venv/bin/activate
 ```
 
